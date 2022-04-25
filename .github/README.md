@@ -43,9 +43,6 @@ I will definitely try to develop my code here in my spare time
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://github.com/yonessohrabi"><img src=""></a>
-<a href="https://github.com/yonessohrabi"><img src=""></a>
-<a href="https://github.com/yonessohrabi"><img src=""></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
