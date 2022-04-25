@@ -47,9 +47,6 @@ I will definitely try to develop my code here in my spare time
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-<a href="https://github.com/yonessohrabi"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-"></a>
-
 </p>
 
 
